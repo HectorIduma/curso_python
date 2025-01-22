@@ -1,2 +1,1 @@
-# curso_python
-Curso de Python
+mi primer curso de python
